@@ -2,5 +2,5 @@
 
 Stack: 
 
-* JavaScript/localStorage
+* JavaScript/localStoragetitle
 * CSS
