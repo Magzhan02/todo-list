@@ -43,6 +43,7 @@ addBtn.addEventListener('click',function(){
     listArr.push(inputValue)
     localStorage.setItem("Todo",JSON.stringify(listArr))
     addBtn.classList.remove("active")
+    displayTodo()
     inputBox.value = '';
 });
 
