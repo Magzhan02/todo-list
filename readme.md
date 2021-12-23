@@ -5,5 +5,5 @@ Stack:
 * JavaScript/localStorage
 * CSS
 
-GitHub Pages
+# GitHub Pages
 link: https://magzhan02.github.io/todo-list/
